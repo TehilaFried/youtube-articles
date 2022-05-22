@@ -1,0 +1,7 @@
+{
+  "env": {
+    "MONGO_USERNAME": "Tehila",
+    "MONGO_PASSWORD": "tehila",
+    "JWT_KEY": "youtube-api-article"
+  }
+}
